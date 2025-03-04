@@ -1,27 +1,5 @@
-<h3 align="center">Hi there, I'm Pascal 👋</h3>
-
-I am a passionate **Machine Learning Enthusiast** and **Software Developer** with a keen interest in **AI-powered solutions**. I specialize in **Regression, Classification, MLOps**, and **Web Development**. I love working on projects that solve real-world problems, and I am always eager to learn and collaborate!
-
----
-
 ### 📊 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pascal-juma&show_icons=true&locale=en&theme=radical" alt="pascal-juma" /></p>
-
----
-
-### 🚀 About Me
-- 🎓 **Pursuing Computer Science (CS)** 
-- 🤖 **Machine Learning & AI Enthusiast**
-- ⚡ **Web Development & MLOps Practitioner**
-- 🏆 **Hackathon Participant & Innovator**
-- 💡 Currently working on:
-  - **AI-powered bursary allocation project** 🎓💰
-  - **Rainfall & soil pH prediction for farmers** 🌱🌧️
-  - **AI-guided navigation system for the blind** 🦮🕶️
-  - **A QR code-based wedding photo-sharing platform** 📸💍
-- ⚡ Fun fact **I think I’m funny, but my code sometimes disagrees. 😆**
-
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pascal-juma&show_icons=true&locale=en&theme=yeblu" alt="pascal-juma" /></p>
 
 ## 🛠️ Tech Stack
 
@@ -63,7 +41,23 @@ I am a passionate **Machine Learning Enthusiast** and **Software Developer** wit
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pascal-juma&show_icons=true&locale=en&layout=compact&theme=radical" alt="pascal-juma" /></p>
+---
+
+### 🚀 About Me
+- 🎓 **Pursuing Computer Science (CS)** 
+- 🤖 **Machine Learning & AI Enthusiast**
+- ⚡ **Web Development & MLOps Practitioner**
+- 🏆 **Hackathon Participant & Innovator**
+- 💡 Currently working on:
+  - **AI-powered bursary allocation project** 🎓💰
+  - **Rainfall & soil pH prediction for farmers** 🌱🌧️
+  - **AI-guided navigation system for the blind** 🦮🕶️
+  - **A QR code-based wedding photo-sharing platform** 📸💍
+- ⚡ Fun fact **I think I’m funny, but my code sometimes disagrees. 😆**
+
+---
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pascal-juma&show_icons=true&locale=en&layout=compact&theme=outrun" alt="pascal-juma" /></p>
 
 ---
 
@@ -81,14 +75,6 @@ I am a passionate **Machine Learning Enthusiast** and **Software Developer** wit
 💍 Platform to allow guests to upload and share wedding moments via QR codes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pascal-juma&theme=tokyonight" alt="pascal-juma" /></p>
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pascal-juma&label=Profile%20views&color=0e75b6&style=flat" alt="pascal-juma" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pascal-juma&theme=onedark" alt="pascal-juma" /></a> </p>
-
----
 
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/pascal-juma)
